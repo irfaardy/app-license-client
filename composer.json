@@ -1,0 +1,25 @@
+{
+    "name": "irfa/app-license-client",
+    "description": "\"License/Serial for web apllication\"",
+    "type": "package",
+    "license": "MIT",
+    "version": "v1.0",
+    "keywords": ["laravel", "security", "serial", "license", "serial number"],
+    "authors": [
+        {
+            "name": "Irfa A",
+            "email": "irfa.backend@protonmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "ext-json": "*",
+        "laravel/framework": "^6.0|^7.0",
+        "ixudra/curl": ">=6.0"
+    },
+    "autoload": {
+            "psr-4": {
+                "Irfa\\AppLicenseClient\\": "src/"
+            }
+    }
+}
