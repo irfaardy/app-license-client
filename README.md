@@ -1,10 +1,10 @@
 
-# 🚀Lisensi Aplikasi menggunakan Serial Number untuk client
+# 🚀 Application License uses a Serial Number for client side
 [![GitHub license](https://img.shields.io/github/license/irfaardy/encrypt-file-laravel?style=flat-square)](https://github.com/irfaardy/encrypt-file-laravel/blob/master/LICENSE) [![Support me](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee-yellow.svg?style=flat-square)](https://www.buymeacoffee.com/OBaAofN) [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S52P7SN)
 
-jika anda ingin menambahkan pada server endpoint silahkan berkunjung kesini https://github.com/irfaardy/app-license-server
+This plugin will run if you install a plugin for an endpoint server please visit here https://github.com/irfaardy/app-license-server
 
-<p>Plugin ini digunakan untuk memasang serial number aplikasi di server client<p>
+<p>This plugin is used to install the application serial number on the client server<p>
 <h3>🛠️ Installation with Composer </h3>
 
 
