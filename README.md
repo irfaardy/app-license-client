@@ -55,8 +55,8 @@ APP_LICENSE_ENDPOINT=https://example.com/check/license
 
 <h2>Setting Middleware</h2>
 
-Buka file App\Http\Kernel.php
-Open file App\Http\Kernel.php
+Buka file App\Http\Kernel.php<br>
+Open file App\Http\Kernel.php<br>
 Tambahkan item ini di $routeMiddleware <br>
 Add this item in $routeMiddleware
 
