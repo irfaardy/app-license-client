@@ -46,7 +46,7 @@ This plugin will run if you install a plugin for an endpoint server please visit
 <h2>Plugin Settings</h2>
 
 Tambahkan baris ini di file .env
-
+Add this line to file .env
 
 ```php
 APP_SERIAL_NUMBER=XXXX-XXXX-XXXX-XXXX
@@ -56,8 +56,9 @@ APP_LICENSE_ENDPOINT=https://example.com/check/license
 <h2>Setting Middleware</h2>
 
 Buka file App\Http\Kernel.php
+Open file App\Http\Kernel.php
 Tambahkan item ini di $routeMiddleware 
-
+Add this item in $routeMiddleware
 
 ```php
 'licenseCheck' => \Irfa\AppLicenseClient\Middleware\AppLicenseChecker::class,
