@@ -45,7 +45,7 @@ This plugin will run if you install a plugin for an endpoint server please visit
 
 <h2>Plugin Settings</h2>
 
-Tambahkan baris ini di file .env
+Tambahkan baris ini di file .env<br>
 Add this line to file .env
 
 ```php
@@ -57,7 +57,7 @@ APP_LICENSE_ENDPOINT=https://example.com/check/license
 
 Buka file App\Http\Kernel.php
 Open file App\Http\Kernel.php
-Tambahkan item ini di $routeMiddleware 
+Tambahkan item ini di $routeMiddleware <br>
 Add this item in $routeMiddleware
 
 ```php
